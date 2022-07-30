@@ -1,6 +1,10 @@
-### Nightingale 🐦
+### Nightingale 🐦🕊️🦜🦤
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeying&layout=compact&exclude_repo=hyiker-blog,hyiker.github.io,CampusNavigation" width='350"' />
-Graduate student of Electrical and Computer Engineering
+🪶 Graduate student of Electrical and Computer Engineering.
+
+✨ Chinese(Mandarin), English
+
+🐍 Life is short, use Python.
 
 <!--
 **yyyeying/yyyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
