@@ -1,5 +1,5 @@
 ### Nightingale 🐦🕊️🦜🦤
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeying&layout=compact&count_private=true&langs_count=10" width='350"' />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeying&layout=compact&count_private=true&langs_count=8&hide=html,actionscript,tex,shaderlab" width='350"' />
 
 
 🪶 Graduate student of **Electrical and Computer Engineering**.
