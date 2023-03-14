@@ -2,9 +2,9 @@
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyeying&layout=compact&count_private=true&langs_count=8&hide=html,actionscript,tex,shaderlab" width='350"' />
 
 
-🪶 Graduate student of **Electrical and Computer Engineering**.
+🪶 Master of Science in **Electrical and Computer Engineering**.
 
-🪶 Bachelor of **Communication Engineering**
+🪶 Bachelor of Engineering in **Communication Engineering**
 
 ✨ Chinese(Mandarin), English.
 
